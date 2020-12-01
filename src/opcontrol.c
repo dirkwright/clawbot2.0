@@ -44,6 +44,7 @@ Digital Sensors
 void operatorControl() {
 		 int power, turn;
  //start of only infinate while loop in this project
+	int ultrasonicValue = 0 ;
 	while (1) {
 		printf("I and working \n"); //print to terminal
 //- - - - - - - - - - joysticks - - - - - - - - - - - - -
