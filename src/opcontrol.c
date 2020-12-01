@@ -95,7 +95,7 @@ if(joystickGetDigital(1, 8, JOY_DOWN)) {
 }
 	// call the ultrasonicFollow function with button 8R													  }
 	if(joystickGetDigital(1, 8, JOY_RIGHT)) {
-		ultrasonicFollow;
+ultrasonicValue = ultrasonicGet(untrasonic1)
 	}
 
 		delay(20);

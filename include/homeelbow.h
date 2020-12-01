@@ -5,7 +5,7 @@
 
 void homeElbow(int homePosition)
 {
-printf("HomeElbow function called");
+//printf("HomeElbow function called");
  }
 
 #endif

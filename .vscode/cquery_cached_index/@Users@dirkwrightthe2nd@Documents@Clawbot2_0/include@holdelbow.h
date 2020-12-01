@@ -5,7 +5,7 @@
 
 void holdElbow(int angle)
 {
-printf("HoldElbow function called");
+//printf("HoldElbow function called");
  }
 
 #endif

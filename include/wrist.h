@@ -5,7 +5,7 @@
 
 void wristSet(int speed)
 {
-printf("WristSet function called");
+//printf("WristSet function called");
  }
 
 #endif

@@ -5,8 +5,8 @@
 
 void chassisSet(int right, int left)
 {
-printf("ChasisSet function called");
-printf("this is a chage now it is test branch this chage was made last");
+printf("right speed %d left speed %d \n",right, left);
+
  }
 
 #endif

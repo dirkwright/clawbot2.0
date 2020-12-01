@@ -5,7 +5,7 @@
 
 void clawSet(int speed)
 {
-printf("CLawSet function called");
+//printf("CLawSet function called");
  }
 
 #endif

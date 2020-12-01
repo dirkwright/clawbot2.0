@@ -5,7 +5,7 @@
 
 void homeShoulder(int homePosition)
 {
-printf("HomeShoulder function called");
+//printf("HomeShoulder function called");
  }
 
 #endif

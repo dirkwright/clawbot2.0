@@ -5,7 +5,7 @@
 
 void elbowSet(int speed)
 {
-printf("CElbowSet function called");
+//printf("CElbowSet function called");
  }
 
 #endif
